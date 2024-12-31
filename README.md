@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: (https://github.com/HaseebaAlhaddi/Frontend-Mentor-Testimonials-grid-section)
-- Live Site URL: (https://haseebaalhaddi.github.io/Frontend-Mentor-Four-card-feature/)
+- Live Site URL: (https://haseebaalhaddi.github.io/Frontend-Mentor-Testimonials-grid-section/)
 
 ## My process
 
